@@ -4,7 +4,7 @@
 
 ## Description
 
-This  is simple cards game where you can can find the matching cards.
+This is simple Cards Game where you can can match the cards. Also you can play as many times as you want.
 
 <img src= "https://github.com/sukhde/cards-game/blob/master/Capture.PNG?raw=true" width=200px>
 
@@ -18,6 +18,10 @@ Refresh button
 Matched cards
 
 <img src= "https://github.com/sukhde/cards-game/blob/master/matched%20cards.PNG" width= 200px>
+
+Another card fliped
+
+<img src= "https://github.com/sukhde/cards-game/blob/master/anothercardfliped.PNG" width=200px>
 
 ## How To Play
 
