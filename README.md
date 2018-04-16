@@ -45,7 +45,7 @@ Following are some steps to play game...
 
 +  Player can click as many cards as he/she want at a time.
 
-+  Also the stars doesnot increases/decreases when you click so many cards agian and again.
++  The stars do not increase/decrease when a player clicks the cards or performs moves.
 
 
  ## Author
