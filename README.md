@@ -27,23 +27,23 @@ Another card fliped
 
 Following are some steps to play game...
 
- 1 Click on the one card at first.
+ 1  Click on the one card at first.
  
- 2 Then click another card if the card matches it will be  remained open.
+ 2  Then click another card if the card matches it will be  remained open.
  
- 3 The color of cards also changes if it  is matched.
+ 3  The color of cards also changes if it  is matched.
  
- 4 If the cards donot match it will be fliped back.
+ 4  If the cards donot match it will be fliped back.
  
- 5 Click refresh button if you want to play again.
+ 5  Click refresh button if you want to play again.
  
- 6 When all the cards matched it will show congrats on the screen.
+ 6  When all the cards matched it will show congrats on the screen.
 
 ## Issues
 
-1 I have some bugs with moves .
+1  I have some bugs with moves.
 
-2 Also there is some error in  increase stars .
+2  Also there is some error in  increase stars.
 
 
  ## Author
