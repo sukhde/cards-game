@@ -11,19 +11,19 @@ This is simple Cards Game where you can can match the cards. Also you can play a
 
 ## Parts Of Game
 
-Refresh button
++ Refresh button
 
 <img src= "https://github.com/sukhde/cards-game/blob/master/refresh.PNG">
 
 ---
 
-Matched cards
++ Matched cards
 
 <img src= "https://github.com/sukhde/cards-game/blob/master/matched%20cards.PNG" width= 200px>
 
 ---
 
-Another card fliped
++ Another card fliped
 
 <img src= "https://github.com/sukhde/cards-game/blob/master/anothercardfliped.PNG" width=200px>
 
