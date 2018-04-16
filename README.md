@@ -15,6 +15,10 @@ Refresh button
 
 <img src= "https://github.com/sukhde/cards-game/blob/master/refresh.PNG">
 
+Matched cards
+
+<img src= "https://github.com/sukhde/cards-game/blob/master/matched%20cards.PNG" width= 200px>
+
 ## How To Play
 
 Following are some steps to play game...
