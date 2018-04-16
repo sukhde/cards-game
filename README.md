@@ -41,9 +41,9 @@ Following are some steps to play game...
 
 ## Issues
 
-1  I have some bugs with moves.
++  I have some bugs with moves.
 
-2  Also there is some error in  increase stars.
++  Also there is some error in  increase stars.
 
 
  ## Author
