@@ -45,11 +45,13 @@ function compareCards() {
         
         
         openCards = [];
+     
         
        // matchGame();
     if (sameCards.length == 16) {
         alert("congrats");
     }
+     countMoves();
     }
 
         else {
@@ -62,11 +64,15 @@ function compareCards() {
        
 
     }
-    
+    countMoves();
 } 
 //update moves
-   //function moves(){
-   //}
+  let movesCount = document.querySelector('.moves');
+    function countMoves(){
+       let moves = movesCount.textContent;
+       moves++;
+    movesCount.textContent = moves;
+}
 
 //restart 
 
